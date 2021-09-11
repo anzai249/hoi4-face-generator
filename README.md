@@ -13,7 +13,7 @@ I'm from China and my English is not very good. Please point out the errors belo
 
 这是一个基于lightweight-gan的钢铁雄心4大众脸生成AI。
 
-This is an AI that can generate hoi4 generic faces, it is based on lightweight-gan.
+This is an AI that can generate hoi4 generic faces, which is based on lightweight-gan.
 
 lightweight-gan:https://github.com/lucidrains/lightweight-gan
 ## 我为什么要训练这个AI？/Why did I train this AI?
