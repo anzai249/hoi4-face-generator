@@ -44,3 +44,11 @@ https://github.com/lucidrains/lightweight-gan#generating
 
 I also created a Colab notebook for this.
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18Bb1ibaotSXTgxlMzCaS9rcRzXfKYK7B?usp=sharing)
+##捐赠/Donation
+这个项目花费了我许多时间和金钱，如果你感觉这个项目不错，可以给我买一杯咖啡，至为感谢。
+
+This project cost me a lot of time and money, so if you like this project, please buy me a cup of coffee, thanks.
+
+<img src="./images/wechat.jpg" width="400px"></img>
+
+*WeChat*
