@@ -35,7 +35,8 @@ More generation options can refer to:
 ```bash
 https://github.com/lucidrains/lightweight-gan#generating
 ```
-## [Colab](colab/hoi4-face-generator.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]]
+## Colab
 为此我还做了个Colab笔记本。
 
 I also created a Colab notebook for this.
+[Open In Colab](colab/hoi4-face-generator.ipynb)]
