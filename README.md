@@ -52,3 +52,7 @@ This project cost me a lot of time and money, so if you like this project, pleas
 <img src="./images/wechat.png" width="300px"></img>
 
 *WeChat*
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B0668ZJ)
+
+*Ko-fi*
