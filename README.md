@@ -49,6 +49,6 @@ I also created a Colab notebook for this.
 
 This project cost me a lot of time and money, so if you like this project, please buy me a cup of coffee, thanks.
 
-<img src="./images/wechat.png" width="400px"></img>
+<img src="./images/wechat.png" width="300px"></img>
 
 *WeChat*
