@@ -6,7 +6,7 @@
 <img src="./images/27h.jpg" width="400px"></img>
 
 *Results of 27 hours of training*
-
+## 前言/Preface
 我是中国人，我的英语不太好，下文中的错误还请大家指出，谢谢。
 
 I'm from China and my English is not very good. Please point out the mistakes below, thank you.
@@ -16,6 +16,10 @@ I'm from China and my English is not very good. Please point out the mistakes be
 This is an AI that can generate hoi4 generic faces, which is based on lightweight-gan.
 
 lightweight-gan:https://github.com/lucidrains/lightweight-gan
+
+训练时使用图片素材来自钢铁雄心4原版游戏和Kaiserreich Mod，共4000余张。
+
+The images used for training are from Hearts of Iron IV Game and Kaiserreich Mod, about 4000 in total.
 ## 我为什么要训练这个AI？/Why did I train this AI?
 在钢铁雄心4的mod制作过程中，大众脸绘制问题给mod制作者带来了很多的麻烦，所以我突发奇想，训练了这个AI，想为各位mod作者带来方便，提高制作效率。
 
