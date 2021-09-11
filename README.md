@@ -25,7 +25,7 @@ The images used for training are from Hearts of Iron IV Game and Kaiserreich Mod
 
 The problem of generic face drawing has caused a lot of trouble for modders during the hoi4 mod making process. So in order to improve efficiency, bring convenience to all modders, I trained this AI.
 
-<img src="./images/modernart.jpg" width="400px"></img>
+<img src="./images/modernart.jpg" width="500px"></img>
 ## 用法/Usage
 lightweight-gan的具体用法可以参考：
 
