@@ -9,7 +9,7 @@
 
 我是中国人，我的英语不太好，下文中的错误还请大家指出，谢谢。
 
-I'm from China and my English is not very good. Please point out the errors below, thank you.
+I'm from China and my English is not very good. Please point out the mistakes below, thank you.
 
 这是一个基于lightweight-gan的钢铁雄心4大众脸生成AI。
 
