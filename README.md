@@ -39,4 +39,4 @@ https://github.com/lucidrains/lightweight-gan#generating
 为此我还做了个Colab笔记本。
 
 I also created a Colab notebook for this.
-[Open In Colab](colab/hoi4-face-generator.ipynb)]
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18Bb1ibaotSXTgxlMzCaS9rcRzXfKYK7B?usp=sharing)
