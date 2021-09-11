@@ -1,4 +1,8 @@
 # 钢铁雄心4大众脸生成器/Hearts of Iron IV Generic Face Generator
+**项目仍未完成！！**
+
+**The project is still unfinished!!**
+
 <img src="./images/27h.jpg" width="400px"></img>
 
 *Results of 27 hours of training*
