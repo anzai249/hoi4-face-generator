@@ -37,7 +37,7 @@ https://github.com/lucidrains/lightweight-gan
 
 If you have already learned the usage of lightweight-gan, then you can go to the <a href="https://github.com/anzai249/hoi4_face_generator/releases">Release</a> page to download the model file and unzip it, and then:
 ```bash
-$ lightweight_gan --name hoi --generate
+$ lightweight_gan --name hoi --generate --generate-types ema
 ```
 更多生成选项可以参照：
 
