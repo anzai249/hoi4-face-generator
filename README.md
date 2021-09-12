@@ -45,6 +45,9 @@ More generation options can refer to:
 ```bash
 https://github.com/lucidrains/lightweight-gan#generating
 ```
+因本人经济能力与时间不足，部分生成的图片质量不高，不过可使用图片修复AI或者Photoshop进行简单修理，省时省力。
+
+Due to my lack of financial ability and time, some of the generated pictures are of low quality, but simple repairs can be made using image repair AI or Photoshop, which saves time and effort.
 ## Colab
 为此我还做了个Colab笔记本。
 
