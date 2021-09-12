@@ -33,9 +33,9 @@ The specific usage of lightweight-gan can refer to:
 ```bash
 https://github.com/lucidrains/lightweight-gan
 ```
-如果你学会了lightweight-gan的用法，那你就可以去<a href="https://github.com/anzai249/hoi4_face_generator/releases">Release</a>页面下载模型文件并解压，然后：
+如果你学会了lightweight-gan的用法，那你就可以去<a href="https://github.com/anzai249/hoi4_face_generator/releases">Release</a>页面下载模型文件，然后将其放到./models/hoi/中，之后在运行：
 
-If you have already learned the usage of lightweight-gan, then you can go to the <a href="https://github.com/anzai249/hoi4_face_generator/releases">Release</a> page to download the model file and unzip it, and then:
+If you have already learned the usage of lightweight-gan, then you can go to the <a href="https://github.com/anzai249/hoi4_face_generator/releases">Release</a> page to download the model file, and then put it into ./models/hoi/ folder, and then:
 ```bash
 $ lightweight_gan --name hoi --generate --generate-types ema
 ```
