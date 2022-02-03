@@ -62,3 +62,5 @@ This project cost me a lot of time and money, so if you like this project, pleas
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B0668ZJ)
 
 *Ko-fi*
+## 联系我/Contact me
+*Email* anzai381811169@gmail.com
