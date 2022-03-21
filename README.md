@@ -11,7 +11,8 @@ I'm from China and my English is not very good. Please point out the mistakes be
 
 This is an AI that can generate hoi4 generic faces, which is based on lightweight-gan.
 
-lightweight-gan:https://github.com/lucidrains/lightweight-gan
+lightweight-gan:
+https://github.com/lucidrains/lightweight-gan
 
 训练时使用图片素材来自钢铁雄心4原版游戏和Kaiserreich Mod，共4000余张。
 
@@ -38,9 +39,9 @@ $ lightweight_gan --name hoi --generate --generate-types ema
 更多生成选项可以参照：
 
 More generation options can refer to:
-```bash
+
 https://github.com/lucidrains/lightweight-gan#generating
-```
+
 因本人经济能力与时间不足，部分生成的图片质量不高，不过可使用图片修复AI或者Photoshop进行简单修理，省时省力。
 
 Due to my lack of financial ability and time, some of the generated images are of low quality, but simple repairs can be made using image repair AI or Photoshop, which saves time and effort.
