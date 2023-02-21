@@ -56,6 +56,10 @@ I also created a Colab notebook for this.
 
 This project cost me a lot of time and money, so if you like this project, please buy me a cup of coffee, thanks.
 
+[![Donate](https://img.shields.io/badge/%24-Donate-ff69b4)](https://www.paypal.me/MoriTokugawa)
+
+*PayPal*
+
 <img src="./images/wechat.png" width="300px"></img>
 
 *WeChat*
