@@ -30,6 +30,10 @@ The specific usage of lightweight-gan can refer to:
 ```bash
 https://github.com/lucidrains/lightweight-gan
 ```
+训练时使用的是0.20.4版本的lightweight-gan，请谨慎使用其他版本。
+
+Training was done with lightweight-gan version 0.20.4, please use other versions with caution.
+
 如果你学会了lightweight-gan的用法，那你就可以去<a href="https://github.com/anzai249/hoi4_face_generator/releases">Release</a>页面下载模型文件，然后将其放到./models/hoi/中，之后在运行：
 
 If you have already learned the usage of lightweight-gan, then you can go to the <a href="https://github.com/anzai249/hoi4_face_generator/releases">Release</a> page to download the model file, and then put it into ./models/hoi/ folder, and then:
