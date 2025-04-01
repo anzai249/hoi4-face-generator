@@ -1,3 +1,12 @@
+
+# New method:
+
+https://civitai.com/models/1420534/hearts-of-iron-iv-style-portrait
+
+<img src="./images/hoi4style.png" width="400px"></img>
+
+Deprecated method below:
+
 # 钢铁雄心4大众脸生成器/Hearts of Iron IV Generic Face Generator
 <img src="./images/27h.jpg" width="400px"></img>
 
